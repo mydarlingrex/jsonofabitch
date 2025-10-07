@@ -1,0 +1,27 @@
+{
+  "pages": [
+    {
+      "url": "https://site.ru/blog",
+      "title": "Блог",
+      "type": "blog",
+      "locale": "ru",
+      "children": [
+        { "url": "https://site.ru/blog/post-1", "title": "Свадебные съёмки в парке", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-2", "title": "Любимые референсы для съёмок", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-3", "title": "Портретная фотография", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-4", "title": "Лучшие места для съёмки в Питере", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-5", "title": "Как выбрать камеру", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-6", "title": "5 книг для фотографа", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-7", "title": "Love Story у моря", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-8", "title": "Секреты студийного света", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-9", "title": "Почему фотографы любят Wfolio", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-10", "title": "Фотосессия ожидания", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-11", "title": "Мода осени 2025", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-12", "title": "Съёмка детей на природе", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-13", "title": "Деловой портрет", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-14", "title": "Как фотографу экономить в путешествиях", "type": "post", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-15", "title": "Фотография предметов", "type": "post", "locale": "ru" }
+      ]
+    }
+  ]
+}
