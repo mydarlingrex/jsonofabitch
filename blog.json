@@ -34,22 +34,22 @@
           "last_modified": "2025-07-28",
           "locale": "ru"
         },
- {
-          "url": "https://site.ru/blog/post-4",
+        {
+          "url": "https://site.ru/blog/post-5",
           "title": "Съёмки в горах Кавказа",
           "type": "post",
           "last_modified": "2025-07-15",
           "locale": "ru"
-        }
- {
-          "url": "https://site.ru/blog/post-4",
+        },
+        {
+          "url": "https://site.ru/blog/post-6",
           "title": "Портреты актёров",
           "type": "post",
           "last_modified": "2025-06-30",
           "locale": "ru"
         },
- {
-          "url": "https://site.ru/blog/post-4",
+        {
+          "url": "https://site.ru/blog/post-7",
           "title": "Бэкстейдж съёмки для каталога в Москве",
           "type": "post",
           "last_modified": "2025-06-17",
@@ -77,15 +77,15 @@
           "last_modified": "2025-08-28",
           "locale": "ru"
         },
-     {
-          "url": "https://site.ru/announcements/event-1",
+        {
+          "url": "https://site.ru/announcements/event-3",
           "title": "Лекция по съёмке со светом: как это было",
           "type": "announcement",
           "last_modified": "2025-08-21",
           "locale": "ru"
         },
         {
-          "url": "https://site.ru/announcements/event-2",
+          "url": "https://site.ru/announcements/event-4",
           "title": "Фотоконкурс: как я победила",
           "type": "announcement",
           "last_modified": "2025-08-11",
@@ -95,3 +95,4 @@
     }
   ]
 }
+
