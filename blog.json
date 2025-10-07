@@ -7,92 +7,22 @@
       "locale": "ru",
       "children": [
         {
-          "url": "https://site.ru/blog/post-1",
-          "title": "Свадебные съёмки в Москве",
+          "url": "https://site.ru/blog/wedding-ideas",
+          "title": "Идеи для свадебных фотосессий",
           "type": "post",
-          "last_modified": "2025-09-10",
+          "last_modified": "2025-09-01",
           "locale": "ru"
         },
         {
-          "url": "https://site.ru/blog/post-2",
-          "title": "Love Story на природе",
+          "url": "https://site.ru/blog/family-shoot",
+          "title": "Семейная фотосессия дома",
           "type": "post",
           "last_modified": "2025-08-20",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/blog/post-3",
-          "title": "Фотосессия беременности",
-          "type": "post",
-          "last_modified": "2025-08-05",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/blog/post-4",
-          "title": "Портреты в чёрно-белом стиле",
-          "type": "post",
-          "last_modified": "2025-07-28",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/blog/post-5",
-          "title": "Съёмки в горах Кавказа",
-          "type": "post",
-          "last_modified": "2025-07-15",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/blog/post-6",
-          "title": "Портреты актёров",
-          "type": "post",
-          "last_modified": "2025-06-30",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/blog/post-7",
-          "title": "Бэкстейдж съёмки для каталога в Москве",
-          "type": "post",
-          "last_modified": "2025-06-17",
-          "locale": "ru"
-        }
-      ]
-    },
-    {
-      "url": "https://site.ru/announcements",
-      "title": "Анонсы",
-      "type": "announcement-list",
-      "locale": "ru",
-      "children": [
-        {
-          "url": "https://site.ru/announcements/event-1",
-          "title": "Открытый мастер-класс по студийной съёмке",
-          "type": "announcement",
-          "last_modified": "2025-09-12",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/announcements/event-2",
-          "title": "Фотовыставка портретов",
-          "type": "announcement",
-          "last_modified": "2025-08-28",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/announcements/event-3",
-          "title": "Лекция по съёмке со светом: как это было",
-          "type": "announcement",
-          "last_modified": "2025-08-21",
-          "locale": "ru"
-        },
-        {
-          "url": "https://site.ru/announcements/event-4",
-          "title": "Фотоконкурс: как я победила",
-          "type": "announcement",
-          "last_modified": "2025-08-11",
           "locale": "ru"
         }
       ]
     }
   ]
 }
+
 
