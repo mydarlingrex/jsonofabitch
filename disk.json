@@ -1,8 +1,9 @@
 {
   "disk": {
-    "has_data": true,
-    "project_count": 80,
-    "total_size": "180 GB",
-    "last_created": "2025-10-03"
+    "has_data": false,
+    "project_count": 0,
+    "total_size": "0 GB",
+    "last_created": null
   }
 }
+
