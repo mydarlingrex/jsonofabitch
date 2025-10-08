@@ -1,5 +1,20 @@
 {
-  "pages": []
+  "pages": [
+    {
+      "url": "https://site.ru/blog",
+      "title": "Блог",
+      "type": "blog",
+      "locale": "ru",
+      "children": [
+        { "url": "https://site.ru/blog/post-1", "title": "Портретная фотография", "type": "post", "last_modified": "2023-10-01", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-2", "title": "10 лучших фильмов для фотографа", "type": "post", "last_modified": "2023-08-15", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-3", "title": "Свадебные серии в Москве", "type": "post", "last_modified": "2023-07-05", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-4", "title": "Как снимать с одним источником света", "type": "post", "last_modified": "2023-06-20", "locale": "ru" },
+        { "url": "https://site.ru/blog/post-5", "title": "Съёмка Love Story", "type": "post", "last_modified": "2023-05-10", "locale": "ru" }
+      ]
+    }
+  ]
 }
+
 
 
